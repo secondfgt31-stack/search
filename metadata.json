@@ -1,0 +1,7 @@
+{
+  "name": "TelePrice: Telegram Digital Products Price Comparison Bot",
+  "description": "Full-stack Python & interactive workbench for Telegram price comparison system featuring Telethon scraper, regex price parser, SQLite store, and python-telegram-bot search bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
